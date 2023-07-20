@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "ba70cb95bef690bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e089c5aa055e3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7855ad1917aa74e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explotación de vulnerabilidades/Shell/Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f497b4d1bc0e8657",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7df31d414784581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8383547b221d57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b41b5ea133b1045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8da6d55031601e4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faf081d308150bbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0cbf8c8bfaa1eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ab1b4b3d56f610",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Explotación de vulnerabilidades/Shell/Introducción.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11b12ade54852a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Explotación de vulnerabilidades/Shell/Introducción.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7695f868162c445d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9acd5e20bc8c9acf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Explotación de vulnerabilidades/Shell/Introducción.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7855ad1917aa74e7",
+  "lastOpenFiles": [
+    "Explotación de vulnerabilidades/Shell/Introducción.md",
+    "Linux básico/Comandos básicos Linux.md",
+    "Explotación de vulnerabilidades/Shell/Reverse Shell.md",
+    "Explotación de vulnerabilidades/Shell/Forward Shell.md",
+    "Explotación de vulnerabilidades/Shell/Bind Shell.md",
+    "Linux básico",
+    "Explotación de vulnerabilidades/SQLi/SQL Injection.md",
+    "Explotación de vulnerabilidades/SQLi",
+    "Explotación de vulnerabilidades/Shell",
+    "Explotación de vulnerabilidades/Payload Types.md",
+    "tarea.md",
+    "Explotación de vulnerabilidades",
+    "Untitled 1",
+    "Gestores de contenido/Joomla",
+    "Gestores de contenido/Magento",
+    "Gestores de contenido/Drupal",
+    "Gestores de contenido/WordPress",
+    "Untitled.canvas",
+    "Gestores de contenido"
+  ]
+}
